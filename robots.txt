@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thue-cpa.vercel.app/sitemap.xml
